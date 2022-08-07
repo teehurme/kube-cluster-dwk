@@ -5,3 +5,4 @@ resources:
 - gotk-sync.yaml
 - example-source.yaml
 - example-gitopss-app.yaml
+- cluster-config.yaml

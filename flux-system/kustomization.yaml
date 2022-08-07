@@ -6,3 +6,4 @@ resources:
 - example-source.yaml
 - example-gitopss-app.yaml
 - cluster-config.yaml
+- cluster-gitopss.yaml

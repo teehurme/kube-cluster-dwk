@@ -7,3 +7,4 @@ resources:
 - example-gitopss-app.yaml
 - cluster-config.yaml
 - cluster-gitopss.yaml
+- project.yaml
